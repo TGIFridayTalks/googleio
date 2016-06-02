@@ -1,0 +1,17 @@
+Firebase:
+
+* Huge
+* Datastorage
+* Filestorage
+* Auth
+* Analytics
+* SDK
+
+Angular2:
+
+* WebServices (AppShells, fast bootstrap)
+* Lazy Routes (lazy load app components based on routing)
+* Universal (Compile templates on server via express engine)
+* WebWorkers (ui thread, kinda experimental, but cool)
+* CLI generate apps and all tooling stuff
+* Integration with Firebase. Auth, datastore.
